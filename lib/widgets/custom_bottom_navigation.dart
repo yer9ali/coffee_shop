@@ -70,7 +70,7 @@ class _CustomBottomNavigationState extends State<CustomBottomNavigation>
         // color: const Color(0xFF1A1A1A),
         decoration: BoxDecoration(
           color: Color(0xFF1A1A1A),
-          borderRadius: BorderRadius.circular(50),
+          borderRadius: BorderRadius.circular(30),
         ),
         child: SafeArea(
           child: Padding(
